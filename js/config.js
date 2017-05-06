@@ -57,7 +57,21 @@ var l_bgImages = [
 	"backgrounds/images/5.jpg",
 	"backgrounds/images/6.jpg",
 	"backgrounds/images/7.jpg",
-	"backgrounds/images/8.jpg"
+	"backgrounds/images/8.jpg",
+	"backgrounds/images/9.jpg",
+	"backgrounds/images/10.jpg",
+	"backgrounds/images/11.jpg",
+	"backgrounds/images/12.jpg",
+	"backgrounds/images/13.jpg",
+	"backgrounds/images/14.jpg",
+	"backgrounds/images/15.jpg",
+	"backgrounds/images/16.jpg",
+	"backgrounds/images/17.jpg",
+	"backgrounds/images/18.jpg",
+	"backgrounds/images/19.jpg",
+	"backgrounds/images/20.jpg",
+	"backgrounds/images/21.jpg",
+	"backgrounds/images/22.jpg"
 ];
 
 /*Random background images order?*/
@@ -94,6 +108,10 @@ var l_musicPlaylist = [
 	{youtube: "94nDCm4NqIA", name: "Minnie Riperton - Loving You"},
 	{youtube: "04F4xlWSFh0", name: "Drowning Pool - Bodies"},
 	{youtube: "k9IfHDi-2EA", name: "Johnny Cash- The Man Comes Around"},
+	{youtube: "dBN86y30Ufc", name: "Willie Nelson - On The Road Again"},
+	{youtube: "tIdIqbv7SPo", name: "Bill Withers - Ain't No Sunshine"},
+	{youtube: "b8hbnFqe8aw", name: "SHEENA EASTON - 9 To 5 (Morning Train)"}
+	
 ];
 
 /*Random music order?*/
@@ -101,7 +119,7 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 25;
+var l_musicVolume = 20;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
